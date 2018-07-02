@@ -4,5 +4,11 @@
    },
    "name": {
       "message": "Bitcoin Cash(BCH) - график цен"
+   },
+   "shortname": {
+      "message": "Bitcoin Cash(BCH) - график цен"
+   },
+   "title": {
+      "message": "Bitcoin Cash(BCH) - график цен"
    }
 }

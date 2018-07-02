@@ -1,0 +1,14 @@
+﻿{
+   "desc": {
+      "message": "This extension shows current price and price change graph for Bitcoin Cash(BCH)"
+   },
+   "name": {
+      "message": "Bitcoin Cash(BCH) - price graph"
+   },
+   "shortname": {
+      "message": "Bitcoin Cash(BCH) - price graph"
+   },
+   "title": {
+      "message": "Bitcoin Cash(BCH) - price graph"
+   }
+}
