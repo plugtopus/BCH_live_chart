@@ -1,6 +1,6 @@
 ﻿{
    "desc": {
-      "message": "This extension shows current price and price change graph for Bitcoin Cash(BCH)"
+      "message": "Popup with the current rate and chart, for the Bitcoin Cash cryptocurrency. Data from Coinbase"
    },
    "name": {
       "message": "Bitcoin Cash(BCH) - price graph"

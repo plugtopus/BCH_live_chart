@@ -1,6 +1,6 @@
 {
    "desc": {
-      "message": "Это расширение показывает текущую цену и график изменения цены, для Bitcoin Cash(BCH)"
+      "message": "Окошко с текущим курсом и графиком, для крипто-валюты Bitcoin Cash. Данные с Coinbase"
    },
    "name": {
       "message": "Bitcoin Cash(BCH) - график цен"
